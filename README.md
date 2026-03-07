@@ -1,2 +1,2 @@
 # chut.github.io
-物理ノート
+physics note
