@@ -4,24 +4,13 @@ title: "LaTeXテスト"
 date: 2026-09-20
 ---
 
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    displayMath: [['$$', '$$']]
-  }
-};
-</script>
-
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
-
 # LaTeXテスト
 
-これはインラインの式です。
+インライン：
 
 $E=mc^2$
 
-これは独立した数式です。
+独立した数式：
 
 $$
 E=\frac{1}{2}mv^2
