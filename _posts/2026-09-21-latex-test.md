@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LaTeX 数式テスト"
-date: 2026-09-21
+date: 2026-09-20
 ---
 
 # LaTeX 数式テスト
