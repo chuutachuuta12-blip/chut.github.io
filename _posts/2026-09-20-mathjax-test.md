@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeXテスト"
+title: "LaTeXテスト1"
 date: 2026-09-20
 ---
 
