@@ -18,10 +18,10 @@ $$
 
 シュレーディンガー方程式：
 
-$$
+\\[
 i\hbar\frac{\partial\psi}{\partial t}
 =
 -\frac{\hbar^2}{2m}\nabla^2\psi
 +
 V\psi
-$$
+\\]
