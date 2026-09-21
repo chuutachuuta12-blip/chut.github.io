@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "平面波はなぜ$e^{i(kx-\omega t}$で表されるのか"
+title: "平面波はどう表されるのか"
 date: 2026-09-22
 ---
 # 平面波はなぜ$e^{i(kx-\omega t}$で表されるのか
