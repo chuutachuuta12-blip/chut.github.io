@@ -35,11 +35,45 @@
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 1.5em auto;
+  margin: 2em auto 0.5em;
 }
 
 /* コード */
 .post-content pre {
+  padding: 1em;
+  overflow-x: auto;
+}
+
+/* 記事タイトル */
+.post-title {
+  font-size: 2.2rem;
+  line-height: 1.3;
+}
+
+/* 数式の上下に余白 */
+.MathJax_Display {
+  margin: 1.5em 0 !important;
+}
+
+/* 記事内の画像 */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2em auto 0.5em;
+}
+
+/* 画像のキャプション */
+.image-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 2em;
+}
+
+/* コードブロック */
+.post-content pre {
+  border-radius: 6px;
   padding: 1em;
   overflow-x: auto;
 }
